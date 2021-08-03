@@ -1,7 +1,7 @@
 {
   "name": "@hapi/call",
   "description": "HTTP Router",
-  "version": "8.0.0",
+  "version": "v8.0.0-mbaker",
   "repository": "git://github.com/hapijs/call",
   "main": "lib/index.js",
   "files": [
